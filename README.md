@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andysingbest
 - 👀 I’m interested in game, programming, singing
-- 🌱 I’m currently learning any language!
+- 🌱 I’m currently learning C, JAVA, GO, C++!
 - 💞️ I’m looking to collaborate on game developing!
 - 📫 How to reach me oolulaito@gmail.com
 
